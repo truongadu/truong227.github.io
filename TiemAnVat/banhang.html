@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiệm Ăn Vặt Nhóm Lửa</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="header">
+    <a href="#trang-chu" class="header-logo">
+        <img src="images/favicon.png" alt="Logo" onerror="this.src='https://fav.farm/🍟'">
+        <span>Tiệm Ăn Vặt Nhóm Lửa</span>
+    </a>
+    <div class="header-nav">
+        <a href="#trang-chu">Trang chủ</a>
+        <a href="#khuyen-mai">Khuyến mãi</a>
+        <a href="#thuc-don">Bán chạy</a>
+        <a href="#do-an-vat">Đồ ăn vặt</a>
+        <a href="#giai-khat">Giải khát</a>
+    </div>
+    <div class="cart-icon" onclick="toggleCart()">
+        Giỏ hàng <span id="cart-badge">0</span>
+    </div>
+</div>
+
+<div id="trang-chu" class="section-padding">
+    <div class="banner-container">
+        <div class="banner-text">
+            <h2>Khám Phá Menu Siêu Ghiền</h2>
+            <p>Nhập mã <b>GIAM10K</b> giảm 10K, <b>FREESHIP</b> giảm 15K, hoặc <b>SIEUTIEC</b> giảm 20%!</p>
+        </div>
+        <div style="font-size: 60px;">🍟🥤</div>
+    </div>
+</div>
+
+<div id="khuyen-mai" class="container section-padding">
+    <h2 class="category-title">🎁 Combo Khuyến Mãi Hot</h2>
+    <div class="menu-section">
+        <div class="product-card">
+            <div class="badge-hot">Giảm 25%</div>
+            <img src="images/ComboXien.jpg" class="product-img">
+            <h3 class="product-title">Combo Xiên Quẩy</h3>
+            <p class="stock-info">Bò, Cá Viên + Xúc Xích + Hồ Lô + Coca</p>
+            <p class="product-price"><span class="old-price">80.000đ</span> 60.000 đ</p>
+            <p class="stock-info">Tồn kho: <span id="kho-comboxien" class="stock-number">10</span></p>
+            <button class="btn-add" onclick="addToCart('Combo Xiên Quẩy', 60000, 'kho-comboxien', this)">Thêm vào giỏ</button>
+        </div>
+
+       <div class="product-card">
+            <div class="badge-discount">Giảm 40%</div>
+            <img src="images/Combophadao.jpg" class="product-img">
+            <h3 class="product-title">Combo Phá Đảo</h3>
+            <p style="font-size: 14px; color: #666; margin-bottom: 5px;">Bánh Tráng + Nem Chua + Trà Sữa</p>
+            <p class="product-price"><span class="old-price">75.000đ</span> 45.000 đ</p>
+            <p class="stock-info">Tồn kho: <span id="kho-combophadao" class="stock-number">15</span></p>
+            <button class="btn-add" onclick="addToCart('Combo Phá Đảo', 45000, 'kho-combophadao', this)">Thêm vào giỏ</button>
+        </div>
+
+    </div>
+</div>
+
+<div id="thuc-don" class="container section-padding">
+    <h2 class="category-title">🔥 Bán Chạy Nhất</h2>
+    <div class="menu-section">
+        <div class="product-card">
+            <div class="badge-hot">Best Seller</div>
+            <img src="images/BanhTrangTron.jpg" class="product-img">
+            <h3 class="product-title">Bánh Tráng Trộn</h3>
+            <p class="product-price">20.000 đ</p>
+            <p class="stock-info">Tồn kho: <span id="kho-banhtrang" class="stock-number">5</span></p>
+            <button class="btn-add" onclick="addToCart('Bánh Tráng Trộn', 20000, 'kho-banhtrang', this)">Thêm vào giỏ</button>
+        </div>
+        <div class="product-card">
+            <div class="badge-hot">Best Seller</div>
+            <img src="images/TraSuaTranChau.jpg" class="product-img">
+            <h3 class="product-title">Trà Sữa Trân Châu</h3>
+            <p class="product-price">25.000 đ</p>
+            <p class="stock-info">Tồn kho: <span id="kho-trasua" class="stock-number">8</span></p>
+            <button class="btn-add" onclick="addToCart('Trà Sữa Trân Châu', 25000, 'kho-trasua', this)">Thêm vào giỏ</button>
+        </div>
+        <div class="product-card">
+            <img src="images/KhoGa.jpg" class="product-img">
+            <h3 class="product-title">Khô Gà Lá Chanh</h3>
+            <p class="product-price">35.000 đ</p>
+            <p class="stock-info">Tồn kho: <span id="kho-khoga" class="stock-number">12</span></p>
+            <button class="btn-add" onclick="addToCart('Khô Gà Lá Chanh', 35000, 'kho-khoga', this)">Thêm vào giỏ</button>
+        </div>
+        <div class="product-card">
+            <img src="images/NemChua.jpg" class="product-img">
+            <h3 class="product-title">Nem Chua Rán</h3>
+            <p class="product-price">30.000 đ</p>
+            <p class="stock-info">Tồn kho: <span id="kho-nemchua" class="stock-number">2</span></p>
+            <button class="btn-add" onclick="addToCart('Nem Chua Rán', 30000, 'kho-nemchua', this)">Thêm vào giỏ</button>
+        </div>
+    </div>
+</div>
+
+<div id="thucdonphu" class="container section-padding">
+    <h2 class="category-title">🍟 Menu Đồ Ăn Vặt</h2>
+    <div class="menu-section">
+        <div class="product-card"><img src="images/Cavienchien.jpg" class="product-img"><h3 class="product-title">Cá Viên Chiên</h3><p class="product-price">15.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-cavien" class="stock-number">20</span></p><button class="btn-add" onclick="addToCart('Cá Viên Chiên', 15000, 'kho-cavien', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/BoVienChien.jpg" class="product-img"><h3 class="product-title">Bò Viên Chiên</h3><p class="product-price">15.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-bovien" class="stock-number">20</span></p><button class="btn-add" onclick="addToCart('Bò Viên Chiên', 15000, 'kho-bovien', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/XucXichDuc.jpg" class="product-img"><h3 class="product-title">Xúc Xích Đức</h3><p class="product-price">15.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-xucxich" class="stock-number">15</span></p><button class="btn-add" onclick="addToCart('Xúc Xích Đức', 15000, 'kho-xucxich', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/HoLoNuong.jpg" class="product-img"><h3 class="product-title">Hồ Lô Nướng</h3><p class="product-price">20.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-holo" class="stock-number">10</span></p><button class="btn-add" onclick="addToCart('Hồ Lô Nướng', 20000, 'kho-holo', this)">Thêm vào giỏ</button></div>
+        
+        <div class="product-card"><img src="images/KhoaiTayChien.jpg" class="product-img"><h3 class="product-title">Khoai Tây Chiên</h3><p class="product-price">25.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-khoaitay" class="stock-number">15</span></p><button class="btn-add" onclick="addToCart('Khoai Tây Chiên', 25000, 'kho-khoaitay', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/PhoMaiQue.jpg" class="product-img"><h3 class="product-title">Phô Mai Que</h3><p class="product-price">20.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-phomaichi" class="stock-number">12</span></p><button class="btn-add" onclick="addToCart('Phô Mai Que', 20000, 'kho-phomaichi', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/ChanGaSaTac.jpg" class="product-img"><h3 class="product-title">Chân Gà Sả Tắc</h3><p class="product-price">45.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-changa" class="stock-number">8</span></p><button class="btn-add" onclick="addToCart('Chân Gà Sả Tắc', 45000, 'kho-changa', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/BanhTrangNuong.jpg" class="product-img"><h3 class="product-title">Bánh Tráng Nướng</h3><p class="product-price">25.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-btn" class="stock-number">15</span></p><button class="btn-add" onclick="addToCart('Bánh Tráng Nướng', 25000, 'kho-btn', this)">Thêm vào giỏ</button></div>
+
+        <div class="product-card"><img src="images/CutLonXaoMe.jpeg" class="product-img"><h3 class="product-title">Cút Lộn Xào Me</h3><p class="product-price">30.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-cutlon" class="stock-number">10</span></p><button class="btn-add" onclick="addToCart('Cút Lộn Xào Me', 30000, 'kho-cutlon', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/BapXaoTomBo.jpg" class="product-img"><h3 class="product-title">Bắp Xào Tôm Bơ</h3><p class="product-price">25.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-bapxao" class="stock-number">12</span></p><button class="btn-add" onclick="addToCart('Bắp Xào Tôm Bơ', 25000, 'kho-bapxao', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/GoiCuon.jpg" class="product-img"><h3 class="product-title">Gỏi Cuốn (1 cuốn)</h3><p class="product-price">8.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-goicuon" class="stock-number">50</span></p><button class="btn-add" onclick="addToCart('Gỏi Cuốn', 8000, 'kho-goicuon', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/TokbokkiPhoMai.jpg" class="product-img"><h3 class="product-title">Tokbokki Phô Mai</h3><p class="product-price">40.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-tokbokki" class="stock-number">8</span></p><button class="btn-add" onclick="addToCart('Tokbokki Phô Mai', 40000, 'kho-tokbokki', this)">Thêm vào giỏ</button></div>
+
+        <div class="product-card"><img src="images/HaCaoHap.webp" class="product-img"><h3 class="product-title">Há Cảo Hấp</h3><p class="product-price">30.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-hacao" class="stock-number">15</span></p><button class="btn-add" onclick="addToCart('Há Cảo Hấp', 30000, 'kho-hacao', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/GaRan.png" class="product-img"><h3 class="product-title">Gà Rán (1 miếng)</h3><p class="product-price">35.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-garan" class="stock-number">10</span></p><button class="btn-add" onclick="addToCart('Gà Rán', 35000, 'kho-garan', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/KhoaiLangLac.webp" class="product-img"><h3 class="product-title">Khoai Lang Lắc</h3><p class="product-price">20.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-khoailang" class="stock-number">15</span></p><button class="btn-add" onclick="addToCart('Khoai Lang Lắc', 20000, 'kho-khoailang', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/BanhMiMuoiOt.jpg" class="product-img"><h3 class="product-title">Bánh Mì Muối Ớt</h3><p class="product-price">20.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-banhmi" class="stock-number">12</span></p><button class="btn-add" onclick="addToCart('Bánh Mì Muối Ớt', 20000, 'kho-banhmi', this)">Thêm vào giỏ</button></div>
+    </div>
+
+    <h2 class="category-title">🥤 Menu Giải Khát</h2>
+    <div class="menu-section">
+        <div class="product-card"><img src="images/TraDaoCamSa.webp" class="product-img"><h3 class="product-title">Trà Đào Cam Sả</h3><p class="product-price">25.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-tradao" class="stock-number">20</span></p><button class="btn-add" onclick="addToCart('Trà Đào Cam Sả', 25000, 'kho-tradao', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/TraVaiNhietDoi.jpg" class="product-img"><h3 class="product-title">Trà Vải Nhiệt Đới</h3><p class="product-price">25.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-travai" class="stock-number">20</span></p><button class="btn-add" onclick="addToCart('Trà Vải Nhiệt Đới', 25000, 'kho-travai', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/TraTacKhongLo.jpg" class="product-img"><h3 class="product-title">Trà Tắc Khổng Lồ</h3><p class="product-price">15.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-tratac" class="stock-number">30</span></p><button class="btn-add" onclick="addToCart('Trà Tắc Khổng Lồ', 15000, 'kho-tratac', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/TraChanhGiaTay.jpg" class="product-img"><h3 class="product-title">Trà Chanh Giã Tay</h3><p class="product-price">15.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-trachanh" class="stock-number">30</span></p><button class="btn-add" onclick="addToCart('Trà Chanh Giã Tay', 15000, 'kho-trachanh', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/NươcEpCam.jpg" class="product-img"><h3 class="product-title">Nước Ép Cam</h3><p class="product-price">30.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-epcam" class="stock-number">15</span></p><button class="btn-add" onclick="addToCart('Nước Ép Cam', 30000, 'kho-epcam', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/NuocEpDuaHau.webp" class="product-img"><h3 class="product-title">Nước Ép Dưa Hấu</h3><p class="product-price">30.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-epduahau" class="stock-number">15</span></p><button class="btn-add" onclick="addToCart('Nước Ép Dưa Hấu', 30000, 'kho-epduahau', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/SuaTuoiTranChau.jpg" class="product-img"><h3 class="product-title">Sữa Tươi Trân Châu</h3><p class="product-price">30.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-suatuoi" class="stock-number">15</span></p><button class="btn-add" onclick="addToCart('Sữa Tươi Trân Châu', 30000, 'kho-suatuoi', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/TraSuaMatcha.jpg" class="product-img"><h3 class="product-title">Trà Sữa Matcha</h3><p class="product-price">30.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-matcha" class="stock-number">10</span></p><button class="btn-add" onclick="addToCart('Trà Sữa Matcha', 30000, 'kho-matcha', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/CoCa.jpg" class="product-img"><h3 class="product-title">Coca Cola (Lon)</h3><p class="product-price">15.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-coca" class="stock-number">50</span></p><button class="btn-add" onclick="addToCart('Coca Cola (Lon)', 15000, 'kho-coca', this)">Thêm vào giỏ</button></div>
+        <div class="product-card"><img src="images/Pepsi.jpg" class="product-img"><h3 class="product-title">Pepsi (Lon)</h3><p class="product-price">15.000 đ</p><p class="stock-info">Tồn kho: <span id="kho-pepsi" class="stock-number">50</span></p><button class="btn-add" onclick="addToCart('Pepsi (Lon)', 15000, 'kho-pepsi', this)">Thêm vào giỏ</button></div>
+    </div>
+</div>
+
+<div id="cart-overlay" class="overlay">
+    <div class="popup-box" style="width: 500px; padding: 25px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <h2 style="margin: 0; color: var(--primary);">🛒 Giỏ Hàng</h2>
+            <button class="close-btn" style="border:none; background:none; font-size:24px; cursor:pointer;" onclick="toggleCart()">✖</button>
+        </div>
+        
+        <div id="cart-list" style="overflow-y: auto; flex-grow: 1; margin-bottom: 15px; padding-right: 5px;"></div>
+        
+        <div style="margin-top: auto;">
+            <button class="btn-clear" onclick="clearCart()">🗑 Xóa toàn bộ giỏ</button>
+            <div style="border-top: 2px solid var(--primary); padding-top: 15px;">
+                <p style="font-size: 18px; font-weight: bold;">Tổng cộng: <span id="total-price" style="color: var(--primary); font-size: 26px;">0</span> đ</p>
+                <button class="btn-primary" onclick="openCheckout()">Tiến Hành Thanh Toán</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="checkout-overlay" class="overlay">
+    <div class="popup-box">
+        <h2 style="margin-top: 0; text-align: center; color: var(--primary);">Xác Nhận Đơn Hàng</h2>
+        <div id="checkout-item-list" style="max-height: 150px; overflow-y: auto; margin-bottom: 15px;"></div>
+
+        <div style="display: flex; gap: 10px; margin: 15px 0;">
+            <input type="text" id="promo-code" placeholder="Nhập mã giảm giá..." style="flex:1; padding:12px; border:1px solid #ddd; border-radius:8px;">
+            <button class="btn-primary" style="width: auto; padding: 10px 20px;" onclick="applyPromo()">Áp dụng</button>
+        </div>
+        
+        <div style="background: #f9f9f9; padding: 20px; border-radius: 12px; margin-bottom: 20px;">
+            <div style="display: flex; justify-content: space-between; margin-bottom: 10px;"><span>Tạm tính:</span><span id="chk-subtotal">0 đ</span></div>
+            <div style="display: flex; justify-content: space-between; color: var(--success);"><span>Khuyến mãi:</span><span id="chk-discount">0 đ</span></div>
+            <div style="display: flex; justify-content: space-between; margin-top: 15px; padding-top: 15px; border-top: 1px dashed #ccc; font-size: 20px; font-weight: bold; color: var(--primary);">
+                <span>CẦN THANH TOÁN:</span><span id="chk-final-total">0 đ</span>
+            </div>
+        </div>
+        
+        <button class="btn-primary" onclick="confirmOrder()">XÁC NHẬN ĐẶT HÀNG</button>
+        <button class="btn-clear" style="border:none; text-decoration: underline; margin-top: 10px;" onclick="closeCheckout()">Quay lại giỏ hàng</button>
+    </div>
+</div>
+
+<div id="custom-alert-overlay" class="overlay">
+    <div class="popup-box" style="width: 320px; text-align: center; justify-content: center;">
+        <div class="custom-alert-icon" id="custom-alert-icon">✅</div>
+        <h3 class="custom-alert-title" id="custom-alert-title">Thành công!</h3>
+        <p class="custom-alert-message" id="custom-alert-message">Nội dung</p>
+        <button class="btn-primary" onclick="closeCustomAlert()">Đồng ý</button>
+    </div>
+</div>
+
+<div id="toast-container"></div>
+<script src="script.js"></script>
+</body>
+</html>

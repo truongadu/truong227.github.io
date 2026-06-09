@@ -1,0 +1,171 @@
+/* =========================================
+   1. BIẾN MÀU SẮC & CÀI ĐẶT CHUNG
+   ========================================= */
+:root {
+    --primary: #ea2b2b;      
+    --primary-hover: #c91e1e;
+    --success: #27ae60;      
+    --bg-color: #f9f9f9;
+    --text-dark: #333;
+    --text-light: #888;
+}
+
+@font-face {
+    font-family: 'ICielCadena';
+    src: url('fonts/ICielCadena.otf') format('opentype');
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+    font-family: 'ICielCadena', sans-serif;
+    background-color: var(--bg-color);
+    margin: 0;
+    padding-top: 70px; 
+    color: var(--text-dark);
+}
+
+/* =========================================
+   2. HEADER & BANNER
+   ========================================= */
+.header {
+    position: fixed; top: 0; left: 0; width: 100%;
+    background-color: #ffffff;
+    display: flex; justify-content: space-between; align-items: center; 
+    padding: 10px 50px; box-sizing: border-box;
+    z-index: 100;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.05);
+}
+
+.header-logo {
+    display: flex; align-items: center; gap: 10px; 
+    font-size: 24px; font-weight: bold; 
+    text-decoration: none; color: var(--primary);
+}
+
+.header-logo img { height: 45px; object-fit: contain; }
+
+.header-nav { display: flex; gap: 30px; }
+.header-nav a { text-decoration: none; color: var(--text-dark); font-weight: bold; transition: 0.3s; }
+.header-nav a:hover { color: var(--primary); }
+
+.cart-icon {
+    background-color: var(--primary); color: white;
+    padding: 10px 25px; border-radius: 30px; font-weight: bold; 
+    cursor: pointer; transition: 0.3s; user-select: none;
+}
+.cart-icon:hover { background-color: var(--primary-hover); transform: scale(1.05); }
+#cart-badge {
+    background-color: white; color: var(--primary); border-radius: 50%;
+    padding: 2px 8px; margin-left: 5px; font-weight: bold; font-size: 14px;
+}
+
+.section-padding { scroll-margin-top: 90px; } 
+
+.banner-container {
+    max-width: 1200px; margin: 20px auto;
+    background: linear-gradient(135deg, var(--primary), #ff6b6b);
+    color: white; padding: 30px; border-radius: 16px;
+    display: flex; justify-content: space-between; align-items: center;
+    box-shadow: 0 10px 20px rgba(234, 43, 43, 0.2);
+}
+.banner-text h2 { margin: 0 0 10px 0; font-size: 32px; }
+
+/* =========================================
+   3. MENU SẢN PHẨM (CARD)
+   ========================================= */
+.container { max-width: 1200px; margin: 20px auto; padding: 0 20px; }
+.category-title {
+    font-size: 24px; color: var(--primary); border-bottom: 3px solid var(--primary);
+    display: inline-block; padding-bottom: 5px; margin: 30px 0 20px 0;
+}
+.menu-section { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 25px; }
+
+.product-card {
+    background-color: white; border-radius: 16px; padding: 15px; text-align: center;
+    position: relative; border: 1px solid #eee; transition: all 0.3s ease;
+}
+.product-card:hover { transform: translateY(-10px); box-shadow: 0 15px 30px rgba(0,0,0,0.1); }
+
+.badge-hot, .badge-discount {
+    position: absolute; top: 12px; left: 12px; color: white;
+    padding: 5px 15px; border-radius: 20px; font-weight: bold; font-size: 12px;
+}
+.badge-hot { background-color: var(--primary); }
+.badge-discount { background-color: var(--success); right: 12px; left: auto; }
+
+.product-img { width: 100%; height: 180px; object-fit: cover; border-radius: 12px; margin-bottom: 15px; }
+.product-title { font-size: 18px; margin: 0 0 8px 0; color: var(--text-dark); }
+.product-price { color: var(--primary); font-weight: bold; font-size: 20px; margin: 0 0 10px 0; }
+.old-price { text-decoration: line-through; color: var(--text-light); font-size: 14px; margin-right: 5px; }
+.stock-info { font-size: 13px; color: var(--text-light); margin-bottom: 15px; }
+.stock-number { font-weight: bold; color: var(--primary); }
+
+.btn-add {
+    background-color: transparent; color: var(--primary); border: 2px solid var(--primary);
+    padding: 12px; width: 100%; border-radius: 10px; cursor: pointer; font-weight: bold;
+    font-size: 15px; transition: 0.3s;
+}
+.btn-add:hover { background-color: var(--primary); color: white; }
+
+/* =========================================
+   4. MODALS & POPUPS (Có hiệu ứng Blur kính mờ)
+   ========================================= */
+.overlay {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%; 
+    background-color: rgba(0,0,0,0.5); 
+    backdrop-filter: blur(6px); /* Làm mờ background phía sau */
+    -webkit-backdrop-filter: blur(6px);
+    z-index: 1000;
+    display: flex; justify-content: center; align-items: center;
+    opacity: 0; visibility: hidden; transition: all 0.3s ease;
+}
+.overlay.show { opacity: 1; visibility: visible; } 
+
+/* Popup Box dùng chung cho cả Giỏ hàng, Thanh toán, và Alert */
+.popup-box { 
+    background-color: white; width: 450px; padding: 30px; border-radius: 20px; 
+    box-shadow: 0 15px 50px rgba(0,0,0,0.2); 
+    transform: scale(0.8) translateY(20px); transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); 
+    max-height: 90vh; display: flex; flex-direction: column;
+}
+.overlay.show .popup-box { transform: scale(1) translateY(0); }
+
+/* Các thành phần bên trong Giỏ hàng */
+.cart-card {
+    background: white; border: 1px solid #f0f0f0; border-radius: 12px; 
+    padding: 15px; margin-bottom: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+.cart-card-header { display: flex; justify-content: space-between; margin-bottom: 12px; font-weight: bold; font-size: 16px;}
+.cart-card-name { max-width: 70%; line-height: 1.4; color: var(--text-dark); }
+.cart-card-price { color: var(--primary); }
+.cart-card-body { display: flex; justify-content: space-between; align-items: center; }
+.cart-card-unit { font-size: 13px; color: var(--text-light); background: #f4f4f4; padding: 4px 8px; border-radius: 6px; }
+
+.qty-control { display: flex; align-items: center; background: #f9f9f9; border-radius: 8px; padding: 4px; border: 1px solid #eee; }
+.qty-btn { width: 30px; height: 30px; border: none; background: white; border-radius: 6px; cursor: pointer; font-weight: bold; color: var(--primary); box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: 0.2s;}
+.qty-btn:hover { background: var(--primary); color: white; }
+.qty-num { margin: 0 12px; font-weight: bold; font-size: 15px; min-width: 20px; text-align: center; }
+
+/* Các Nút bấm chung */
+.btn-primary { width: 100%; background-color: var(--primary); color: white; border: none; padding: 15px; font-size: 16px; font-weight: bold; border-radius: 12px; cursor: pointer; transition: 0.3s; }
+.btn-primary:hover { background-color: var(--primary-hover); }
+.btn-clear { background: transparent; border: 1px solid #999; color: var(--text-light); width: 100%; padding: 12px; border-radius: 12px; cursor: pointer; margin-bottom: 15px; font-weight: bold; transition: 0.2s;}
+.btn-clear:hover { background: #ffeded; color: var(--primary); border-color: var(--primary); }
+.close-btn { color: #888; transition: 0.2s; }
+.close-btn:hover { color: var(--primary); transform: rotate(90deg); }
+
+/* =========================================
+   5. TOAST NOTIFICATION
+   ========================================= */
+#toast-container { position: fixed; bottom: 20px; right: 20px; z-index: 9999; display: flex; flex-direction: column; gap: 10px; }
+.toast {
+    background-color: var(--success); color: white; padding: 15px 25px; border-radius: 12px;
+    font-size: 15px; font-weight: bold; box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    transform: translateX(120%); opacity: 0; transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.toast.show { transform: translateX(0); opacity: 1; }
+
+.custom-alert-icon { font-size: 55px; margin-bottom: 10px; }
+.custom-alert-title { color: var(--primary); margin: 0 0 10px 0; font-size: 24px; font-weight: bold; }
+.custom-alert-message { color: var(--text-light); margin-bottom: 25px; font-size: 15px; line-height: 1.5; }
