@@ -2,6 +2,7 @@
 ## ĐỀ TÀI: MẠNG XÃ HỘI CHIA SẺ CÔNG THỨC NẤU ĂN & TÍNH TOÁN CHI PHÍ (FACECOOK)
 
 - **Repository GitHub**: [https://github.com/truongadu/truong227.github.io.git](https://github.com/truongadu/truong227.github.io.git)
+- **GitHub Project Board**: FaceCook Project (`truongadu / Projects / FaceCook Project`)
 - **Phiên bản hệ thống**: 1.0.0
 - **Ngày hoàn thành**: 06/08/2026
 
@@ -9,9 +10,23 @@
 
 # 2. QUẢN LÝ DỰ ÁN TRÊN GITHUB (2 ĐIỂM)
 
-## 2.1. Repository & Cấu trúc Nhánh (Branching Strategy)
+## 2.1. Phân công Nhân sự trên GitHub Projects
 
-Dự án áp dụng quy trình quản lý mã nguồn chuẩn **Git Flow** với địa chỉ Repository chính thức: `https://github.com/truongadu/truong227.github.io.git`
+Dự án được quản lý trực quan trên **GitHub Projects (FaceCook Project)** với sự tham gia của 5 thành viên:
+
+| STT | Họ tên / GitHub Username | Vai trò | Phân công nhiệm vụ trên GitHub Projects |
+|---|---|---|---|
+| 1 | **`ngynfet`** | **PM / UI-UX** | Quản lý tiến độ dự án, Thiết kế Wireframe, Prototype, Design System (`#16`) |
+| 2 | **`khuatduychithanh`** | **Backend 1** | Xây dựng CSDL Core, EF Core DbContext, Recipes API, Cost Calculation & Admin (`#17`) |
+| 3 | **`Tientran1511`** | **Backend 2** | Auth JWT API, User Profile, Social APIs (Comments, Ratings, Favorites, BadWords) (`#18`) |
+| 4 | **`hoangnamtq0309-boop`** | **Frontend 1** | Setup Next.js 14 App Router, Catalog Công thức, Search & Filter, Leaderboard (`#19`) |
+| 5 | **`truongadu`** *(Leader)* | **Frontend 2** | Submit Recipe Form, Recipe Detail Dialog, Social Interactions UI & Admin Dashboard (`#20`) |
+
+---
+
+## 2.2. Repository & Cấu trúc Nhánh (Branching Strategy)
+
+Dự án áp dụng quy trình quản lý mã nguồn chuẩn **Git Flow**:
 
 ```
 main (Production Release)
@@ -23,20 +38,22 @@ main (Production Release)
       └── fix/badwords-filter    (Sửa lỗi bộ lọc từ cấm)
 ```
 
-## 2.2. Quy chuẩn Commit (Conventional Commits)
+## 2.3. Quy chuẩn Commit (Conventional Commits)
 Toàn bộ lịch sử commit tuân thủ định dạng chuẩn `type(scope): Description`:
 - `feat(auth)`: Thêm chức năng xác thực JWT cho người dùng.
 - `feat(recipe)`: Thêm API tự động tính tổng chi phí nguyên liệu.
 - `fix(social)`: Sửa lỗi bộ lọc từ cấm trong bình luận.
 - `docs(readme)`: Thêm tài liệu hướng dẫn cài đặt và chạy ứng dụng.
 
-## 2.3. Milestones, Issues & Releases
-- **Milestones**:
-  - `v1.0.0-Sprint1`: Nền tảng Auth & Setup API/UI.
-  - `v1.0.0-Sprint2`: Quản lý công thức & Tính chi phí.
-  - `v1.0.0-Sprint3`: Tương tác xã hội & Bạn bè.
-  - `v1.0.0-Sprint4`: Leaderboard & Admin Moderation.
-- **Releases**: Đã phát hành chính thức phiên bản `v1.0.0` trên GitHub Releases.
+## 2.4. Milestones, Issues & Backlog User Stories
+- **Sprint 1 (#11)**: Nền tảng Auth & Setup API/UI (100% Completed).
+- **Sprint 2 (#12)**: Quản lý công thức & Tính chi phí nguyên liệu (100% Completed).
+- **User Stories (Backlog)**:
+  - `US06`: Lưu món yêu thích (`#6`)
+  - `US07`: Tạo thực đơn tuần (`#7`)
+  - `US08`: Tìm kiếm món ăn (`#8`)
+  - `US09`: Đánh giá món ăn (`#9`)
+  - `US10`: Quản lý cơ sở dữ liệu món ăn (`#10`)
 
 ---
 
@@ -285,40 +302,3 @@ erDiagram
 | TC-SOC-06 | Social | Chấp nhận kết bạn | Bấm Chấp nhận | Status chuyển sang `accepted` | **Pass** |
 | TC-SOC-07 | Social | Chia sẻ công thức | Chọn bạn bè & gửi | Tạo record `SharedRecipes` | **Pass** |
 | TC-ADM-01 | Admin | Thêm từ cấm | Admin thêm từ mới | Cập nhật bảng `BadWords` | **Pass** |
-
----
-
-### Mã Unit Test ví dụ (xUnit)
-
-```csharp
-using Xunit;
-using Microsoft.EntityFrameworkCore;
-using CookingApp.API.Data;
-using CookingApp.API.Models;
-
-public class RecipeUnitTest
-{
-    private CookingAppDbContext GetDatabase()
-    {
-        var options = new DbContextOptionsBuilder<CookingAppDbContext>()
-            .UseInMemoryDatabase(Guid.NewGuid().ToString())
-            .Options;
-        return new CookingAppDbContext(options);
-    }
-
-    [Fact]
-    public async Task CalculateTotalIngredientCost_ShouldReturnCorrectValue()
-    {
-        // Arrange
-        var db = GetDatabase();
-        db.Ingredients.Add(new Ingredient { IngredientId = 1, IngredientName = "Thịt bò", Price = 200000 });
-        await db.SaveChangesAsync();
-
-        // Act (0.2 kg thịt bò = 40.000 VNĐ)
-        decimal totalCost = (decimal)(0.2 * 200000);
-
-        // Assert
-        Assert.Equal(40000m, totalCost);
-    }
-}
-```
