@@ -151,13 +151,15 @@ git commit -m "docs(readme): Cập nhật tài liệu hướng dẫn chạy dự
 
 ---
 
-## 👥 Thành viên thực hiện
+## 👥 Thành viên thực hiện (5 Members)
 
-| STT | Họ và Tên | Vai trò | Phân công nhiệm vụ |
+| STT | GitHub Username | Vai trò | Phân công nhiệm vụ trên GitHub Projects |
 |---|---|---|---|
-| 1 | **Nguyễn Văn Trưởng** | Team Leader / Fullstack | Quản lý dự án, Backend API (Auth, Recipe Core) & Next.js UI |
-| 2 | **Thành viên 2** | Frontend Developer | Thiết kế UI/UX Next.js, Tailwind CSS, Trang Detail & Leaderboard |
-| 3 | **Thành viên 3** | Backend & QA | Xây dựng Middleware lọc từ cấm, Social API & Bộ Test Cases |
+| 1 | **`khuatduychithanh`** *(Leader)* | **Backend 1 / Leader** | CSDL Core, EF Core DbContext, Recipes API, Cost Calculation & Admin (`#17`) |
+| 2 | **`ngynfet`** | **PM / UI-UX** | Quản lý tiến độ dự án, Thiết kế Wireframe, Prototype, Design System (`#16`) |
+| 3 | **`Tientran1511`** | **Backend 2** | Auth JWT API, User Profile, Social APIs (Comments, Ratings, Favorites, BadWords) (`#18`) |
+| 4 | **`hoangnamtq0309-boop`** | **Frontend 1** | Setup Next.js 14, Catalog Công thức, Search, Filter & Leaderboard UI (`#19`) |
+| 5 | **`truongadu`** | **Frontend 2** | Form Đăng bài `/submit`, Recipe Detail Dialog, Social UI & Admin Dashboard (`#20`) |
 
 ---
 

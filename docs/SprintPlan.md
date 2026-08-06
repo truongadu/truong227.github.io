@@ -11,10 +11,10 @@
 | STT | GitHub Username | Vai trò | Trách nhiệm chính |
 |---|---|---|---|
 | 1 | **`ngynfet`** | **PM / UI-UX** | Quản lý tiến độ dự án, Thiết kế Wireframe, Prototype, Design System (`#16`) |
-| 2 | **`khuatduychithanh`** | **Backend 1** | CSDL Core, EF Core DbContext, Recipes API, Cost Calculation & Admin (`#17`) |
+| 2 | **`khuatduychithanh`** *(Leader)* | **Backend 1 / Leader** | CSDL Core, EF Core DbContext, Recipes API, Cost Calculation & Admin (`#17`) |
 | 3 | **`Tientran1511`** | **Backend 2** | Auth JWT API, User Profile, Social APIs (Comments, Ratings, Favorites, BadWords) (`#18`) |
 | 4 | **`hoangnamtq0309-boop`** | **Frontend 1** | Setup Next.js 14, Catalog Công thức, Search, Filter & Leaderboard UI (`#19`) |
-| 5 | **`truongadu`** *(Leader)* | **Frontend 2** | Form Đăng bài `/submit`, Recipe Detail Dialog, Social UI & Admin Dashboard (`#20`) |
+| 5 | **`truongadu`** | **Frontend 2** | Form Đăng bài `/submit`, Recipe Detail Dialog, Social UI & Admin Dashboard (`#20`) |
 
 ---
 

@@ -17,10 +17,10 @@ Dự án được quản lý trực quan trên **GitHub Projects (FaceCook Proje
 | STT | GitHub Username | Vai trò | Phân công nhiệm vụ chi tiết qua 5 Sprints |
 |---|---|---|---|
 | 1 | **`ngynfet`** | **PM / UI-UX** | Thiết kế Wireframe, Prototype, Design System, UI RecipeCard, Podium Leaderboard & Admin Dashboard (`#16`) |
-| 2 | **`khuatduychithanh`** | **Backend 1** | CSDL Core SQLite, EF Core DbContext, Recipes API, Cost Calculation Engine & Admin Stats (`#17`) |
+| 2 | **`khuatduychithanh`** *(Leader)* | **Backend 1 / Leader** | CSDL Core SQLite, EF Core DbContext, Recipes API, Cost Calculation Engine & Admin Stats (`#17`) |
 | 3 | **`Tientran1511`** | **Backend 2** | Auth JWT API, User Profile, Social APIs (Comments, Ratings, Favorites, Friends) & BadWords Middleware (`#18`) |
 | 4 | **`hoangnamtq0309-boop`** | **Frontend 1** | Setup Next.js 14 App Router, Catalog Công thức, Search, Filter, Leaderboard UI & Friends Page (`#19`) |
-| 5 | **`truongadu`** *(Leader)* | **Frontend 2** | Form Đăng bài `/submit`, Recipe Detail Dialog, Social Interaction UI, Rank Badge & Admin Dashboard (`#20`) |
+| 5 | **`truongadu`** | **Frontend 2** | Form Đăng bài `/submit`, Recipe Detail Dialog, Social Interaction UI, Rank Badge & Admin Dashboard (`#20`) |
 
 ---
 
