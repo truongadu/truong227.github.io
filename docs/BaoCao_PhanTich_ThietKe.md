@@ -45,15 +45,36 @@ Toàn bộ lịch sử commit tuân thủ định dạng chuẩn `type(scope): D
 - `fix(social)`: Sửa lỗi bộ lọc từ cấm trong bình luận.
 - `docs(readme)`: Thêm tài liệu hướng dẫn cài đặt và chạy ứng dụng.
 
-## 2.4. Milestones, Issues & Backlog User Stories
-- **Sprint 1 (#11)**: Nền tảng Auth & Setup API/UI (100% Completed).
-- **Sprint 2 (#12)**: Quản lý công thức & Tính chi phí nguyên liệu (100% Completed).
-- **User Stories (Backlog)**:
-  - `US06`: Lưu món yêu thích (`#6`)
-  - `US07`: Tạo thực đơn tuần (`#7`)
-  - `US08`: Tìm kiếm món ăn (`#8`)
-  - `US09`: Đánh giá món ăn (`#9`)
-  - `US10`: Quản lý cơ sở dữ liệu món ăn (`#10`)
+## 2.4. Project Backlog & Tiến độ các Sprints
+
+### 🟢 Sprint 1: Nền tảng & Xác thực (Done 100%)
+- `US01`: Đăng ký tài khoản mới mã hóa Password (`Auth API`)
+- `US02`: Đăng nhập JWT Token & Phân quyền User / Admin
+- `US03`: Xây dựng giao diện Auth (`/login`, `/register`) & App Shell
+
+### 🟢 Sprint 2: Quản lý Công thức & Tính chi phí (Done 100%)
+- `US04`: Đăng bài công thức kèm nguyên liệu định lượng (`/submit`)
+- `US05`: Tự động tính tổng chi phí nguyên liệu tự nấu (`TotalIngredientCost`)
+- `US06`: Tìm kiếm món ăn & Lọc theo Danh mục / Độ khó
+- `US07`: Xem chi tiết công thức & So sánh chi phí Tự nấu vs. Mua ngoài (`EatingOutPrice`)
+
+### 🟡 Sprint 3: Tương tác Xã hội & Bạn bè (In Progress)
+- `US08`: Thả tim bài viết công thức (`Favorites`)
+- `US09`: Đánh giá 1-5 sao chất lượng món ăn (`Ratings`)
+- `US10`: Viết bình luận kèm bộ lọc tự động từ cấm (`Comments` + `BadWords Middleware`)
+- `US11`: Gửi lời mời, Chấp nhận / Hủy kết bạn (`Friends`)
+- `US12`: Chia sẻ công thức tới Hộp thư bạn bè (`Shared Recipes`)
+
+### 🔵 Sprint 4: Bảng xếp hạng Danh vọng & Rank Badge
+- `US13`: Bảng xếp hạng Top 3 Master Chef & Top 10 Tác giả xuất sắc (`/leaderboard`)
+- `US14`: Hệ thống 5 cấp bậc Rank Badge (Đồng ➔ Bạc ➔ Vàng ➔ Bạch Kim ➔ Kim Cương)
+- `US15`: Gắn `RankAvatarFrame` và `RankBadge` lên Profile cá nhân & bài viết
+
+### 🟣 Sprint 5: Admin Moderation & Deployment
+- `US16`: Admin kiểm duyệt bài công thức (`Approve` / `Reject`)
+- `US17`: Admin quản lý từ cấm (`BadWords`) & Xóa bình luận vi phạm
+- `US18`: Admin Dashboard thống kê hệ thống (User, Recipe, Interactions)
+- `US19`: Kiểm thử E2E & Đóng gói Deploy Production
 
 ---
 
