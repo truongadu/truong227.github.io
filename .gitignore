@@ -1,3 +1,30 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+*.pem
+
+# Environment variables
+.env*.local
+.env
+
+# Tooling / IDE / Temp files
+.vscode/
+vs.code/
+.history/
+.agent/
+tsconfig.tsbuildinfo
+
+# Backend / .NET
+Backend/bin/
+Backend/obj/
+Backend/CookingAppDB.db
+
+# Legacy
+LegacyFrontend/
+
 # v0 sandbox internal files
 __v0_runtime_loader.js
 __v0_devtools.tsx
@@ -5,11 +32,3 @@ __v0_jsx-dev-runtime.ts
 .snowflake/
 .v0-trash/
 .vercel/
-
-# Environment variables
-.env*.local
-
-# Common ignores
-node_modules
-.next/
-.DS_Store
