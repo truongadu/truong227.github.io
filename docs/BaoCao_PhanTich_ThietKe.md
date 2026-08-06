@@ -10,17 +10,17 @@
 
 # 2. QUẢN LÝ DỰ ÁN TRÊN GITHUB (2 ĐIỂM)
 
-## 2.1. Phân công Nhân sự trên GitHub Projects
+## 2.1. Phân công Nhiệm vụ theo Vai trò & Sprints trên GitHub Projects
 
-Dự án được quản lý trực quan trên **GitHub Projects (FaceCook Project)** với sự tham gia của 5 thành viên:
+Dự án được quản lý trực quan trên **GitHub Projects (FaceCook Project)** với phân công công việc chi tiết cho 5 thành viên qua 5 Sprints:
 
-| STT | Họ tên / GitHub Username | Vai trò | Phân công nhiệm vụ trên GitHub Projects |
+| STT | GitHub Username | Vai trò | Phân công nhiệm vụ chi tiết qua 5 Sprints |
 |---|---|---|---|
-| 1 | **`ngynfet`** | **PM / UI-UX** | Quản lý tiến độ dự án, Thiết kế Wireframe, Prototype, Design System (`#16`) |
-| 2 | **`khuatduychithanh`** | **Backend 1** | Xây dựng CSDL Core, EF Core DbContext, Recipes API, Cost Calculation & Admin (`#17`) |
-| 3 | **`Tientran1511`** | **Backend 2** | Auth JWT API, User Profile, Social APIs (Comments, Ratings, Favorites, BadWords) (`#18`) |
-| 4 | **`hoangnamtq0309-boop`** | **Frontend 1** | Setup Next.js 14 App Router, Catalog Công thức, Search & Filter, Leaderboard (`#19`) |
-| 5 | **`truongadu`** *(Leader)* | **Frontend 2** | Submit Recipe Form, Recipe Detail Dialog, Social Interactions UI & Admin Dashboard (`#20`) |
+| 1 | **`ngynfet`** | **PM / UI-UX** | Thiết kế Wireframe, Prototype, Design System, UI RecipeCard, Podium Leaderboard & Admin Dashboard (`#16`) |
+| 2 | **`khuatduychithanh`** | **Backend 1** | CSDL Core SQLite, EF Core DbContext, Recipes API, Cost Calculation Engine & Admin Stats (`#17`) |
+| 3 | **`Tientran1511`** | **Backend 2** | Auth JWT API, User Profile, Social APIs (Comments, Ratings, Favorites, Friends) & BadWords Middleware (`#18`) |
+| 4 | **`hoangnamtq0309-boop`** | **Frontend 1** | Setup Next.js 14 App Router, Catalog Công thức, Search, Filter, Leaderboard UI & Friends Page (`#19`) |
+| 5 | **`truongadu`** *(Leader)* | **Frontend 2** | Form Đăng bài `/submit`, Recipe Detail Dialog, Social Interaction UI, Rank Badge & Admin Dashboard (`#20`) |
 
 ---
 
@@ -45,36 +45,42 @@ Toàn bộ lịch sử commit tuân thủ định dạng chuẩn `type(scope): D
 - `fix(social)`: Sửa lỗi bộ lọc từ cấm trong bình luận.
 - `docs(readme)`: Thêm tài liệu hướng dẫn cài đặt và chạy ứng dụng.
 
-## 2.4. Project Backlog & Tiến độ các Sprints
+## 2.4. Phân công Công việc Chi tiết theo Sprints
 
 ### 🟢 Sprint 1: Nền tảng & Xác thực (Done 100%)
-- `US01`: Đăng ký tài khoản mới mã hóa Password (`Auth API`)
-- `US02`: Đăng nhập JWT Token & Phân quyền User / Admin
-- `US03`: Xây dựng giao diện Auth (`/login`, `/register`) & App Shell
+- **`ngynfet` (PM/UI-UX)**: Design System & Wireframe Auth (`/login`, `/register`)
+- **`khuatduychithanh` (BE1)**: Cấu hình ASP.NET Core 8, DbContext SQLite & Seed data `Categories`/`Ingredients`
+- **`Tientran1511` (BE2)**: `AuthController` (JWT Token) & `UsersController`
+- **`hoangnamtq0309-boop` (FE1)**: Setup Next.js 14 App Router, Tailwind CSS, `shadcn/ui` & `AuthProvider`
+- **`truongadu` (FE2)**: Giao diện Đăng nhập, Đăng ký, SiteHeader & SiteFooter
 
 ### 🟢 Sprint 2: Quản lý Công thức & Tính chi phí (Done 100%)
-- `US04`: Đăng bài công thức kèm nguyên liệu định lượng (`/submit`)
-- `US05`: Tự động tính tổng chi phí nguyên liệu tự nấu (`TotalIngredientCost`)
-- `US06`: Tìm kiếm món ăn & Lọc theo Danh mục / Độ khó
-- `US07`: Xem chi tiết công thức & So sánh chi phí Tự nấu vs. Mua ngoài (`EatingOutPrice`)
+- **`ngynfet` (PM/UI-UX)**: UI RecipeCard, Recipe Detail Dialog & Submit Form UI
+- **`khuatduychithanh` (BE1)**: `RecipesController` (Search, Filter) & Logic tự động tính `TotalIngredientCost`
+- **`Tientran1511` (BE2)**: `CategoriesController`, `IngredientsController` & `RecipeSteps` API
+- **`hoangnamtq0309-boop` (FE1)**: Trang Catalog công thức (`/recipes`), Tìm kiếm & Lọc danh mục
+- **`truongadu` (FE2)**: Trang Chi tiết món ăn (`/recipe/[id]`), Dialog so sánh giá & Form đăng bài (`/submit`)
 
 ### 🟡 Sprint 3: Tương tác Xã hội & Bạn bè (In Progress)
-- `US08`: Thả tim bài viết công thức (`Favorites`)
-- `US09`: Đánh giá 1-5 sao chất lượng món ăn (`Ratings`)
-- `US10`: Viết bình luận kèm bộ lọc tự động từ cấm (`Comments` + `BadWords Middleware`)
-- `US11`: Gửi lời mời, Chấp nhận / Hủy kết bạn (`Friends`)
-- `US12`: Chia sẻ công thức tới Hộp thư bạn bè (`Shared Recipes`)
+- **`ngynfet` (PM/UI-UX)**: UI Comment Section, Star Rating & Friends Page
+- **`khuatduychithanh` (BE1)**: `FavoritesController` & `RatingsController`
+- **`Tientran1511` (BE2)**: `CommentsController`, `BadWordsMiddleware`, `FriendsController` & `SharedRecipesController`
+- **`hoangnamtq0309-boop` (FE1)**: Trang Bạn bè (`/friends`), Trang Hộp thư chia sẻ (`/shared`) & `NotificationBadge`
+- **`truongadu` (FE2)**: Tích hợp `CommentSection` (lọc từ cấm), `StarRating` & Nút Thả tim real-time
 
 ### 🔵 Sprint 4: Bảng xếp hạng Danh vọng & Rank Badge
-- `US13`: Bảng xếp hạng Top 3 Master Chef & Top 10 Tác giả xuất sắc (`/leaderboard`)
-- `US14`: Hệ thống 5 cấp bậc Rank Badge (Đồng ➔ Bạc ➔ Vàng ➔ Bạch Kim ➔ Kim Cương)
-- `US15`: Gắn `RankAvatarFrame` và `RankBadge` lên Profile cá nhân & bài viết
+- **`ngynfet` (PM/UI-UX)**: Podium Top 3 Master Chef & Badge 5 cấp bậc Rank
+- **`khuatduychithanh` (BE1)**: `LeaderboardController` (4 Endpoints vinh danh)
+- **`Tientran1511` (BE2)**: Logic tính điểm Rank danh vọng theo số tim tích lũy
+- **`hoangnamtq0309-boop` (FE1)**: Trang Bảng xếp hạng Master Chef (`/leaderboard`)
+- **`truongadu` (FE2)**: Gắn `RankBadge` & `RankAvatarFrame` vào Profile cá nhân (`/profile`)
 
 ### 🟣 Sprint 5: Admin Moderation & Deployment
-- `US16`: Admin kiểm duyệt bài công thức (`Approve` / `Reject`)
-- `US17`: Admin quản lý từ cấm (`BadWords`) & Xóa bình luận vi phạm
-- `US18`: Admin Dashboard thống kê hệ thống (User, Recipe, Interactions)
-- `US19`: Kiểm thử E2E & Đóng gói Deploy Production
+- **`ngynfet` (PM/UI-UX)**: Layout Admin Dashboard & Giao diện kiểm duyệt
+- **`khuatduychithanh` (BE1)**: `AdminController` (API Duyệt/Từ chối bài `Approve`/`Reject`, Thống kê Dashboard)
+- **`Tientran1511` (BE2)**: `AdminController` (Quản lý từ cấm `BadWords`, Xóa bình luận) & RBAC Authorization
+- **`hoangnamtq0309-boop` (FE1)**: Trang Admin Dashboard (`/admin`) — Tab Duyệt bài & Thống kê
+- **`truongadu` (FE2)**: Admin Tab Quản lý từ cấm & Bình luận, Kiểm thử E2E & Deploy Production
 
 ---
 
