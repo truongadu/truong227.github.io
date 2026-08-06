@@ -1,0 +1,90 @@
+###
+GET http://localhost:5206/api/recipes
+
+###
+GET http://localhost:5206/api/recipes/1
+
+###
+POST http://localhost:5206/api/recipes
+Content-Type: application/json
+
+{
+  "recipeName": "Bánh Mì Trứng",
+  "description": "Bánh mì kẹp trứng",
+  "categoryId": 1,
+  "cookingTime": 10,
+  "imageUrl": "banhmi.jpg"
+}
+
+###
+PUT http://localhost:5206/api/recipes/1
+Content-Type: application/json
+
+{
+  "recipeId": 1,
+  "recipeName": "Bánh Mì Trứng Đặc Biệt",
+  "description": "Có xúc xích",
+  "categoryId": 1,
+  "cookingTime": 15,
+  "imageUrl": "banhmi.jpg"
+}
+
+###
+POST http://localhost:5206/api/auth/register
+Content-Type: application/json
+
+{
+  "fullName": "Khuat Duy Chi Thanh",
+  "email": "khuatduychithanh@gmail.com",
+  "password": "123456789"
+}
+###
+GET http://localhost:5206/api/recipes/search?keyword=Phở
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySWQiOiIzNiIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6InRlc3QxMUBnbWFpbC5jb20iLCJleHAiOjE3ODExODQxNzAsImlzcyI6IkNvb2tpbmdBcHAiLCJhdWQiOiJDb29raW5nQXBwVXNlcnMifQ.o2fPWdtJ_k-qd6r6CHDgqADE9y8GOCRDudMAWAejyRU
+Accept: application/json
+
+###
+GET http://localhost:5206/api/recipes/category/1
+Authorization: Bearer 
+Accept: application/jsoneyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySWQiOiIzNCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6InRlc3Q5QGdtYWlsLmNvbSIsImV4cCI6MTc4MTE2MjE1MywiaXNzIjoiQ29va2luZ0FwcCIsImF1ZCI6IkNvb2tpbmdBcHBVc2VycyJ9.mzpqNWRmWTZ4H_5iMViUcZw-oj37Fa5B1T4ED5T-30I
+
+###
+GET http://localhost:5206/api/favorites
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySWQiOiIyOSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6InRlc3Q2QGdtYWlsLmNvbSIsImV4cCI6MTc4MTE0ODk1OCwiaXNzIjoiQ29va2luZ0FwcCIsImF1ZCI6IkNvb2tpbmdBcHBVc2VycyJ9.TJ1OMOijNweL0Bx-bDofZu6iFYNSFqEYaM0SefKZQtk
+
+###
+GET http://localhost:5206/api/favorites/user/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySWQiOiIzNiIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6InRlc3QxMUBnbWFpbC5jb20iLCJleHAiOjE3ODExODQxNzAsImlzcyI6IkNvb2tpbmdBcHAiLCJhdWQiOiJDb29raW5nQXBwVXNlcnMifQ.o2fPWdtJ_k-qd6r6CHDgqADE9y8GOCRDudMAWAejyRU
+###
+POST http://localhost:5206/api/favorites
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySWQiOiIyOSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6InRlc3Q2QGdtYWlsLmNvbSIsImV4cCI6MTc4MTE0ODk1OCwiaXNzIjoiQ29va2luZ0FwcCIsImF1ZCI6IkNvb2tpbmdBcHBVc2VycyJ9.TJ1OMOijNweL0Bx-bDofZu6iFYNSFqEYaM0SefKZQtk
+Content-Type: application/json
+
+{
+  "userId": 1,
+  "recipeId": 2
+}
+
+###
+DELETE http://localhost:5206/api/favorites/1
+Authorization: Bearer 
+
+###
+POST http://localhost:5206/api/favorites
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySWQiOiIzNyIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6InRlc3QxMkBnbWFpbC5jb20iLCJleHAiOjE3ODExODQ0NzEsImlzcyI6IkNvb2tpbmdBcHAiLCJhdWQiOiJDb29raW5nQXBwVXNlcnMifQ.s6yjO5i4LunIXm6Jp1LrTlRO51JKsK-cIUSff29UcS0
+Content-Type: application/json
+
+{
+  "userId": 36,
+  "recipeId": 2
+}
+
+###
+POST http://localhost:5206/api/comments
+Content-Type: application/json
+
+{
+  "userId": 1,
+  "recipeId": 1,
+  "content": "Món này rất ngon"
+}

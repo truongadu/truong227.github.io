@@ -1,0 +1,636 @@
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\appsettings.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\CookingApp.API.staticwebassets.endpoints.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\CookingApp.API.exe
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\CookingApp.API.deps.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\CookingApp.API.runtimeconfig.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\CookingApp.API.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\CookingApp.API.pdb
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingApp.API.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingApp.API.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingApp.API.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\scopedcss\bundle\CookingApp.API.styles.css
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingA.52581F62.Up2Date
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingApp.API.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\refint\CookingApp.API.dll
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingApp.API.pdb
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\CookingApp.API.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\Compressed\New folder\Backend\obj\Debug\net10.0\ref\CookingApp.API.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\appsettings.json
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\CookingApp.API.staticwebassets.endpoints.json
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\CookingApp.API.exe
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\CookingApp.API.deps.json
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\CookingApp.API.runtimeconfig.json
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\CookingApp.API.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\CookingApp.API.pdb
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Humanizer.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ktts\Downloads\beta\Backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingApp.API.csproj.AssemblyReference.cache
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingApp.API.AssemblyInfoInputs.cache
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingApp.API.AssemblyInfo.cs
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\scopedcss\bundle\CookingApp.API.styles.css
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingA.52581F62.Up2Date
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingApp.API.dll
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\refint\CookingApp.API.dll
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingApp.API.pdb
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\CookingApp.API.genruntimeconfig.cache
+C:\Users\ktts\Downloads\beta\Backend\obj\Debug\net10.0\ref\CookingApp.API.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\appsettings.Development.json
+C:\trưởng lồn\Backend\bin\Debug\net10.0\appsettings.json
+C:\trưởng lồn\Backend\bin\Debug\net10.0\CookingApp.API.staticwebassets.endpoints.json
+C:\trưởng lồn\Backend\bin\Debug\net10.0\CookingApp.API.exe
+C:\trưởng lồn\Backend\bin\Debug\net10.0\CookingApp.API.deps.json
+C:\trưởng lồn\Backend\bin\Debug\net10.0\CookingApp.API.runtimeconfig.json
+C:\trưởng lồn\Backend\bin\Debug\net10.0\CookingApp.API.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\CookingApp.API.pdb
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Humanizer.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\System.CodeDom.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\trưởng lồn\Backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingApp.API.csproj.AssemblyReference.cache
+C:\trưởng lồn\Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingApp.API.AssemblyInfoInputs.cache
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingApp.API.AssemblyInfo.cs
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingApp.API.csproj.CoreCompileInputs.cache
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\trưởng lồn\Backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\trưởng lồn\Backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\trưởng lồn\Backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\trưởng lồn\Backend\obj\Debug\net10.0\scopedcss\bundle\CookingApp.API.styles.css
+C:\trưởng lồn\Backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\trưởng lồn\Backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\trưởng lồn\Backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\trưởng lồn\Backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\trưởng lồn\Backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingA.52581F62.Up2Date
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingApp.API.dll
+C:\trưởng lồn\Backend\obj\Debug\net10.0\refint\CookingApp.API.dll
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingApp.API.pdb
+C:\trưởng lồn\Backend\obj\Debug\net10.0\CookingApp.API.genruntimeconfig.cache
+C:\trưởng lồn\Backend\obj\Debug\net10.0\ref\CookingApp.API.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\appsettings.json
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\CookingApp.API.staticwebassets.endpoints.json
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\CookingApp.API.exe
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\CookingApp.API.deps.json
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\CookingApp.API.runtimeconfig.json
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\CookingApp.API.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\CookingApp.API.pdb
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Humanizer.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\senii\Documents\facecook\Backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingApp.API.csproj.AssemblyReference.cache
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingApp.API.AssemblyInfoInputs.cache
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingApp.API.AssemblyInfo.cs
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\scopedcss\bundle\CookingApp.API.styles.css
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingA.52581F62.Up2Date
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingApp.API.dll
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\refint\CookingApp.API.dll
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingApp.API.pdb
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\CookingApp.API.genruntimeconfig.cache
+C:\Users\senii\Documents\facecook\Backend\obj\Debug\net10.0\ref\CookingApp.API.dll
